@@ -5,3 +5,4 @@ pandas
 xlwt
 openpyxl
 gitpython
+pygithub
