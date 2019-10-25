@@ -13,6 +13,7 @@ http://mybinder.org/v2/gh/sepandms/jup/master
 
 my container(Jupyter Lab):
 https://mybinder.org/v2/gh/jupyterlab/sepandms/jup/master
+https://mybinder.org/v2/gh/jupyterlab/sepandms/jup/master?urlpath=lab
 
 
 
