@@ -9,10 +9,10 @@ example:
 http://mybinder.org/v2/gh/binder-examples/requirements/master
 
 my container (Jupyter NoteBook):
-http://mybinder.org/v2/gh/sepandms/jup/master
+http://mybinder.org/v2/gh/sepandms/jup_pub/master
 
 my container(Jupyter Lab):
-https://mybinder.org/v2/gh/sepandms/jup/master?urlpath=lab
+https://mybinder.org/v2/gh/sepandms/jup_pub/master?urlpath=lab
 
 
 
