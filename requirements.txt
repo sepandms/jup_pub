@@ -6,3 +6,5 @@ xlwt
 openpyxl
 gitpython
 pygithub
+matplotlib-venn
+keras
