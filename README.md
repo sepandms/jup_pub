@@ -5,8 +5,13 @@
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL 
-
+example:
 http://mybinder.org/v2/gh/binder-examples/requirements/master
+
+my container:
+http://mybinder.org/v2/gh/sepandms/jup/master
+
+
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
